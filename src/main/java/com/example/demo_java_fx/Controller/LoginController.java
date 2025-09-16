@@ -19,5 +19,6 @@ public class LoginController {
         String password = txtPwd.getText();
 
         System.out.println(email + "------------" + password);
+        System.out.println("first commit");
     }
 }
